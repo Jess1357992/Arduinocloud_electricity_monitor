@@ -1,6 +1,8 @@
 # Arduinocloud_electricity_monitor
 :moyai: 使用Arduino Cloud達成遠端電力監測---- Pzem004t + esp32 + Arduino iot cloud
 
+:moyai: pzem004T_code.txt 為adruino硬體端所需要的程式
+
 :moyai: 硬體介紹：
 esp32 連接 Pzem004t電力監測模組
 ![image](https://github.com/Jess1357992/Arduinocloud_electricity_monitor/assets/130336984/d7ce781d-6984-4607-a10c-8979aaffd78b)
